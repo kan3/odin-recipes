@@ -1,0 +1,19 @@
+* {
+    background-color: #121212;
+    color: white;
+}
+
+#main-heading {
+    font-family: 'Times New Roman';
+    font-size: 40px;
+    color: green;
+}
+
+.desc {
+    text-align: justify;
+}
+
+.img {
+    height: auto;
+    width: 400px;
+}
